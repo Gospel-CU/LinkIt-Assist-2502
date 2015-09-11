@@ -22,7 +22,7 @@
 
 /* HTTP Details */
 #define VMHTTPS_TEST_DELAY 60000    /* 60 seconds */
-#define VMHTTPS_TEST_URL "http://pettracing.com/api/test"
+#define VMHTTPS_TEST_URL "http://pettracing.com/api/test/1"
 
 VMUINT8 g_channel_id;
 VMINT g_read_seg_num;
